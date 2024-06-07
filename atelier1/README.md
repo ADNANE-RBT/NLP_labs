@@ -30,3 +30,6 @@ During this lab, I gained hands-on experience in several key areas of Natural La
 - **Language Support:** While SpaCy provides good support for many languages, some limitations were noted with Arabic. Supplementing SpaCy with additional resources or custom models trained on Arabic text could improve results.
 - **Accuracy of NLP Tasks:** Ensuring the accuracy of stemming, lemmatization, and POS tagging for non-English text required using appropriate tools like the `SnowballStemmer` for Arabic.
 
+#### Github repo:
+its the first branch :
+https://github.com/ADNANE-RBT/NLP_labs/tree/lab_1
